@@ -2,6 +2,11 @@
 
 本次以上传的修订稿为准，共16页，保留研究背景、实验依据、实验方案三部分及新增免疫荧光附图。介绍与操作说明采用简洁书面语；HTML各页下方提供更易理解的图示解读。机制图保留细胞插画，重新整理可编辑标签、箭线及假说说明。
 
+第13、14页已更新为统一的分组矩阵。DSG2页明确炎症背景四组及另设基础两组；Siglec-E页明确四组、同批CM配对及效应比较。两页分别改变上皮端和巨噬细胞端；其余14页保持原样。
+
+- [下载DSG2六组设计图（PNG）](https://github.com/lizizhizhi-ai/111111/raw/refs/heads/main/DSG2_CM_six_groups.png)
+- [下载Siglec-E四组设计图（PNG）](https://github.com/lizizhizhi-ai/111111/raw/refs/heads/main/Siglec_E_CM_four_groups.png)
+
 - [下载可编辑PPTX](https://github.com/lizizhizhi-ai/111111/raw/refs/heads/main/DSG2_Siglec_journal.pptx)（约9.3 MB）
 - [下载HTML阅读版](https://github.com/lizizhizhi-ai/111111/raw/refs/heads/main/DSG2_Siglec_journal.html)（约25.3 MB，保存后用浏览器打开）
 - [查看机制图](DSG2_Siglec_mechanism.png)
